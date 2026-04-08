@@ -6,5 +6,6 @@ public class HelloWorld {
         String name = "Azam";
         System.out.println(age);
         System.out.println(name);
+        System.out.println("hi");
     }
 }
